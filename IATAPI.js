@@ -77,14 +77,14 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-					{word: 'awful'},
-					{word: 'failure'},
-					{word: 'agony'},
-					{word: 'hurt'},
-					{word: 'horrible'},
-					{word: 'terrible'},
-					{word: 'nasty'},
-					{word: 'evil'}
+					{word: 'Mr. Prata'},
+					{word: 'Mr. Prata'},
+					{word: 'Mr. Prata'},
+					{word: 'Mr. Prata'},
+					{word: 'Mr. Prata'},
+					{word: 'Mr. Prata'},
+					{word: 'Mr. Prata'},
+					{word: 'Mr. Prata'}
 				],
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.3em'}
